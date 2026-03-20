@@ -1,4 +1,4 @@
-package ub.cse.algo;
+package algo;
 
 /**
  * Class for running the grader. Will take in a command line argument specifying
