@@ -1,4 +1,4 @@
-package ub.cse.algo;
+package algo;
 
 import java.util.*;
 
